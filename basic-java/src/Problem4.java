@@ -7,6 +7,7 @@ public class Problem4 {
 
     System.out.print("Masukkan bilangan: ");
     int number = input.nextInt();
+    input.close();
 
     primeNumber(number);
   }

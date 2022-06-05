@@ -7,6 +7,7 @@ public class Problem3 {
     
     System.out.print("Masukkan angka: ");
     int number = input.nextInt();
+    input.close();
 
     findFactor(number);
   }

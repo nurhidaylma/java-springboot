@@ -7,6 +7,7 @@ public class Problem2 {
 
     System.out.print("Masukkan kata: ");
     String word = input.nextLine();
+    input.close();
 
     System.out.println(countLetter(word));
   }
