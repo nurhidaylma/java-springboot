@@ -1,4 +1,4 @@
-// This program compares the number of char 'x' and char 'o' of a word
+// This program compares the number of char 'x' and char 'o' of a word then return boolean
 import java.util.Scanner;
 
 public class Problem2 {
